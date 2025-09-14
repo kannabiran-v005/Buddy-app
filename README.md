@@ -10,7 +10,6 @@ Deployed on Google Cloud using Compute Engine.
 
 ## 🚀 Features
 
-- Responsive and clean UI
 - Hosted using Google Cloud Compute Engine
 - Fast and lightweight
 
@@ -25,7 +24,7 @@ Deployed on Google Cloud using Compute Engine.
 
 ---
 
-## 📦 Deployment Steps (Recap)
+## 📦 Deployment Steps
 
 1. Created a Google Cloud project
 2. Deployed files to a VM (or uploaded to a Cloud Storage bucket)
